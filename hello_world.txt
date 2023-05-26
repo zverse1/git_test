@@ -1,3 +1,4 @@
 Adding some addtiional text for testing.
 Test using VSCode as git commit messaging
 Trader Lin testing
+Trader lin using VSCode as git commit messaging
